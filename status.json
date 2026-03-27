@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "minVersion": "2.0.0",
+  "message": "",
+  "updateUrl": ""
+}
+```
+9. Clique **"Commit new file"**
+
+Ensuite donne-moi ton **pseudo GitHub** et je mets à jour l'URL dans le code. L'URL ressemblera à :
+```
+https://raw.githubusercontent.com/TON_PSEUDO/sharp-browser-config/main/status.json
