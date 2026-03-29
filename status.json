@@ -1,6 +1,6 @@
 {
-  "enabled": false,
+  "enabled": true,
   "minVersion": "2.0.0",
-  "message": "Maintenance en cours",
+  "message": "",
   "updateUrl": "https://ptb.discord.com/assets/94660b205108a49f.svg"
 }
