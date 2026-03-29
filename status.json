@@ -3,7 +3,5 @@
   "minVersion": "2.0.0",
   "message": "",
   "updateUrl": "https://ptb.discord.com/assets/94660b205108a49f.svg",
-  "banned_users": [
-    "206084229522522112"
-  ]
+  "banned_users": []
 }
