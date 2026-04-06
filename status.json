@@ -3,5 +3,7 @@
   "minVersion": "2.0.0",
   "message": "Téléchargez la nouvelle version sur discord",
   "updateUrl": "",
-  "banned_users": []
+  "banned_users": [
+    "1422221973127168141"
+  ]
 }
