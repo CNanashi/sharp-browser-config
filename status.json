@@ -13,5 +13,7 @@
   ],
   "warned_users": [],
   "restricted_users": [],
-  "banned_machines": []
+  "banned_machines": [
+    "DESKTOP-TE77P1G"
+  ]
 }
