@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "message": "",
+  "message": "Téléchargez la nouvelle version sur le discord",
   "updateUrl": "",
   "minVersion": "2.2.2",
   "banned_users": [
