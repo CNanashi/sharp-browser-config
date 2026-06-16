@@ -2,7 +2,7 @@
   "enabled": true,
   "message": "Téléchargez la nouvelle version sur le discord",
   "updateUrl": "",
-  "minVersion": "2.2.2",
+  "minVersion": "2.3.10",
   "banned_users": [
     "142222197312716814",
     "148965405752112349",
