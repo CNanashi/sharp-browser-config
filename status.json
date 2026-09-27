@@ -1,0 +1,19 @@
+{
+  "enabled": true,
+  "message": "Téléchargez la nouvelle version sur le discord",
+  "updateUrl": "",
+  "minVersion": "2.3.10",
+  "banned_users": [
+    "142222197312716814",
+    "148965405752112349",
+    "1489654057521123499",
+    "1422221973127168141",
+    "1059895061065773218"
+  ],
+  "warned_users": [],
+  "restricted_users": [],
+  "banned_machines": [
+    "DESKTOP-TE77P1G",
+    "DESKTOP-L4U8NDQ"
+  ]
+}
